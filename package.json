@@ -23,8 +23,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/evilstreak/markdown-js.git"
+    "url": "git+https://github.com/evilstreak/markdown-js.git"
   },
+  "homepage": "https://github.com/evilstreak/markdown-js#readme",
   "main": "./lib/index.js",
   "bin": {
     "md2html": "./bin/md2html.js"
